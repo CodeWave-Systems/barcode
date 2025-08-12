@@ -462,4 +462,29 @@ Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICEN
 **Versão**: 1.0.0  
 **Última Atualização**: Dezembro 2023  
 **Desenvolvido por**: Sua Empresa/Equipe
-# barcode
+# Sistema de Scanner Raspberry Pi
+
+## 🚀 **AUTOSTART AUTOMÁTICO - SEM LOGIN**
+
+### **Configuração Rápida (RECOMENDADA)**
+```bash
+# Execute o script para configurar autostart automático
+sudo bash install/quick_autostart.sh
+
+# Reinicie o sistema
+sudo reboot
+```
+
+### **Resultado**
+- ✅ **Sistema inicia automaticamente** sem pedir login/senha
+- ✅ **Vai direto para a aplicação Tkinter**
+- ✅ **Funciona como um kiosk profissional**
+
+### **Documentação Completa**
+- 📖 [Guia de Autostart](AUTOSTART_GUIDE.md) - Configuração detalhada
+- 🔧 [Troubleshooting](TROUBLESHOOTING.md) - Solução de problemas
+- ⚡ [Script Rápido](install/quick_autostart.sh) - Configuração em 1 comando
+
+---
+
+# Sistema de Scanner Raspberry Pi
