@@ -1,0 +1,8 @@
+customtkinter==5.2.2
+requests==2.31.0
+APScheduler==3.10.4
+evdev==1.6.1
+python-dateutil==2.8.2
+psutil==5.9.6
+netifaces==0.11.0
+pynput==1.7.6 
